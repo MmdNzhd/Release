@@ -1,6 +1,1 @@
-{
-  "feedUrls": [
-    "https://raw.githubusercontent.com/MmdNzhd/Release/main/Jira-Tracker/MAUI-Release/"
-  ],
-  "minimumVersion": null
-}
+{"feedUrls":["https://github.com/MmdNzhd/Release/releases/download/maui-v1.0.175/"],"minimumVersion":null}
